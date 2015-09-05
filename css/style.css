@@ -1,0 +1,14 @@
+body {
+  width: 75%;
+  text-align : center;
+  margin:auto;
+}
+
+h1 {
+  color: #6b4e3d;
+}
+
+.content {
+  border: solid 2px #6b4e3d;
+  margin-bottom: 5px;
+}
